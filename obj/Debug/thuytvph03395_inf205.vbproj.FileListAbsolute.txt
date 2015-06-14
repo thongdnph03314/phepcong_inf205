@@ -1,0 +1,14 @@
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\bin\Debug\thuytvph03395_inf205.exe.config
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\bin\Debug\thuytvph03395_inf205.exe
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\bin\Debug\thuytvph03395_inf205.pdb
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\bin\Debug\thuytvph03395_inf205.xml
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.Frm_Cong.resources
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.Resources.resources
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.vbproj.GenerateResource.Cache
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.exe
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.xml
+c:\users\s2mgs_000\documents\visual studio 2013\Projects\thuytvph03395_inf205\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.pdb
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CONG\thuytvph03395_inf205\bin\Debug\thuytvph03395_inf205.exe.config
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CONG\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.exe
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CONG\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.xml
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CONG\thuytvph03395_inf205\obj\Debug\thuytvph03395_inf205.pdb
